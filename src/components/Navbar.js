@@ -11,11 +11,11 @@ export default function Navbar() {
         </div>
 
         <nav className="nav-links">
-          <a href="/tpdev/">Home</a>
-          <a href="/tpdev/platform">Platform</a>
-          <a href="/tpdev/architecture">Architecture</a>
-          <a href="/tpdev/use-cases">Use Cases</a>
-          <a href="/tpdev/contact">Contact</a>
+          <a href="/">Home</a>
+          <a href="/platform">Platform</a>
+          <a href="/architecture">Architecture</a>
+          <a href="/use-cases">Use Cases</a>
+          <a href="/contact">Contact</a>
         </nav>
       </div>
     </header>
